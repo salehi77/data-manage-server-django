@@ -1,1 +1,1 @@
-web: gunicorn myproject.wsgi
+web: gunicorn data-manage-server-django.wsgi
